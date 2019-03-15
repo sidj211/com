@@ -2,6 +2,9 @@
 
 @section('content')
 
+
+    <h1>this is our new technique</h1>
+
     <!-- Page wrapper  -->
     <!-- ============================================================== -->
     <div class="page-wrapper">
