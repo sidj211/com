@@ -5,6 +5,8 @@
 
     <h1>this is our new technique</h1>
     <h1>changed the index page again</h1>
+    <h1>changed the index page again</h1>
+    <h1>changed the index page again</h1>
 
     <!-- Page wrapper  -->
     <!-- ============================================================== -->
